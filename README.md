@@ -28,7 +28,7 @@ The project includes `shop_db.sql` for creating the database.
 4. Configure the database connection
 5. Open the project through localhost
 
-6. ## Screenshots
+## Screenshots
 
 ### Home Page
 ![Home Page](screenshots/home.png)
